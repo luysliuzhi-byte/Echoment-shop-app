@@ -16,7 +16,10 @@ database.sqlite
 .env
 .env.*
 
-
+.cache
+.cursor/
+.gemini/
+.react-router/
 
 
 
