@@ -2,7 +2,7 @@
 
 client_id = "fd0433ab7858494e1277862d9aeadf8a"
 name = "Echoment-shop-app"
-application_url = "https://example.com"
+application_url = "https://echoment-shop-app.vercel.app"
 embedded = true
 
 [build]
